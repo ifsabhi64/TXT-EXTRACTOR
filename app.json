@@ -33,7 +33,7 @@
     },
     "MONGO_URL": {
       "description": "",
-      "required": true
+      "required": false
     },
     "PREMIUM_LOGS": {
       "description": "1",
